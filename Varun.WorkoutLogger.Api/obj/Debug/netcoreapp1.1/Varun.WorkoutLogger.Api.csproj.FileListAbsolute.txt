@@ -1,0 +1,8 @@
+c:\Varun Rathore\Projects\WorkoutLogger\Varun.WorkoutLogger.Api\bin\Debug\netcoreapp1.1\Varun.WorkoutLogger.Api.deps.json
+c:\Varun Rathore\Projects\WorkoutLogger\Varun.WorkoutLogger.Api\bin\Debug\netcoreapp1.1\Varun.WorkoutLogger.Api.runtimeconfig.json
+c:\Varun Rathore\Projects\WorkoutLogger\Varun.WorkoutLogger.Api\bin\Debug\netcoreapp1.1\Varun.WorkoutLogger.Api.runtimeconfig.dev.json
+c:\Varun Rathore\Projects\WorkoutLogger\Varun.WorkoutLogger.Api\bin\Debug\netcoreapp1.1\Varun.WorkoutLogger.Api.dll
+c:\Varun Rathore\Projects\WorkoutLogger\Varun.WorkoutLogger.Api\bin\Debug\netcoreapp1.1\Varun.WorkoutLogger.Api.pdb
+c:\Varun Rathore\Projects\WorkoutLogger\Varun.WorkoutLogger.Api\obj\Debug\netcoreapp1.1\Varun.WorkoutLogger.Api.AssemblyInfo.cs
+c:\Varun Rathore\Projects\WorkoutLogger\Varun.WorkoutLogger.Api\obj\Debug\netcoreapp1.1\Varun.WorkoutLogger.Api.dll
+c:\Varun Rathore\Projects\WorkoutLogger\Varun.WorkoutLogger.Api\obj\Debug\netcoreapp1.1\Varun.WorkoutLogger.Api.pdb
